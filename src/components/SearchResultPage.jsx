@@ -16,7 +16,7 @@ const SearchResultPage = () => {
     setloading(true);
     fetchDataFromAPI(`search?q=${searchQuery}&country=in&language=en&limit=52`)
       .then((response) => {
-        setSearchResults(response?.data);
+        setSearchResults(response?.data?.products);
         setloading(false);
       })
       .catch((error) => {
@@ -41,7 +41,7 @@ const SearchResultPage = () => {
           <SkeletonTheme baseColor="#D0D4CA" highlightColor="#7D7C7C">
             {loading
               ? Array.from({ length: 50 }).map((_, index) => (
-                  <div className="flex justify-center">
+                  <div className="flex justify-center" key={index}>
                     <Skeleton
                       key={index}
                       duration={2}

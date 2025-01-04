@@ -23,13 +23,13 @@ const Feed = () => {
     fetchDataFromAPI(`search?q=${query}&country=in&language=en&limit=10`)
       .then((response) => {
         if (query === "latest phone") {
-          setPhone(response?.data);
+          setPhone(response?.data?.products);
         } else if (query === "latest laptop") {
-          setLaptop(response?.data);
+          setLaptop(response?.data?.products);
         } else if (query === "men summer collection") {
-          setMen(response?.data);
+          setMen(response?.data?.products);
         } else {
-          setWomen(response?.data);
+          setWomen(response?.data?.products);
         }
         setloading(false);
       })
