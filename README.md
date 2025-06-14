@@ -40,15 +40,15 @@ To get started with ShopSwift, follow these steps:
 
 ## Screenshots
 
-![1](https://github.com/Aniket2805/ShopSwift/assets/97465559/080572d0-cbfa-4e3d-86e0-9e2af19ddd97)
-![2](https://github.com/Aniket2805/ShopSwift/assets/97465559/29fcb6da-c014-4a96-894b-074457e2d531)
-![3](https://github.com/Aniket2805/ShopSwift/assets/97465559/20031c88-5652-4d78-907e-2bc88a2d65e4)
-![4](https://github.com/Aniket2805/ShopSwift/assets/97465559/6bad11b4-9d68-4641-a14b-35ebdd9a9719)
-![6](https://github.com/Aniket2805/ShopSwift/assets/97465559/af54e3b5-b8ff-4ee2-b753-c63a0ab26ca6)
-![7](https://github.com/Aniket2805/ShopSwift/assets/97465559/d8f396e5-c4c2-46b9-911e-5b6913e738d2)
-![8](https://github.com/Aniket2805/ShopSwift/assets/97465559/4d1bdfc4-8329-432d-ae0a-30666480b39a)
-![9](https://github.com/Aniket2805/ShopSwift/assets/97465559/25bedb5b-7cec-4e14-b486-4b151b9346ad)
-![5](https://github.com/Aniket2805/ShopSwift/assets/97465559/a416fa8d-03ab-4b06-b710-dcba415635d5)
+![8](https://github.com/user-attachments/assets/3a4ac3eb-2d13-4468-ad6d-b5f0494a431e)
+![7](https://github.com/user-attachments/assets/ad59e112-8dfe-4cae-a3fb-d04ff510a822)
+![6](https://github.com/user-attachments/assets/004119eb-2f53-49c9-99ee-87461d300904)
+![5](https://github.com/user-attachments/assets/ba972204-2617-420b-966d-149cf2c63b9b)
+![4](https://github.com/user-attachments/assets/537230d6-bd9b-4c8c-bfcf-0c65460202fa)
+![3](https://github.com/user-attachments/assets/14c42911-bc23-4417-890e-c9bf15ec7706)
+![2](https://github.com/user-attachments/assets/dc7c899b-6098-40ac-a8eb-a7bc083bda75)
+![1](https://github.com/user-attachments/assets/fa9e955f-750f-41a3-8be9-d55dea804053)
+
 
 ## Contributing
 
